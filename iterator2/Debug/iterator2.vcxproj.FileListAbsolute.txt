@@ -1,0 +1,2 @@
+C:\Users\nikit\source\repos\iterator2\Debug\iterator2.exe
+C:\Users\nikit\source\repos\iterator2\Debug\iterator2.pdb

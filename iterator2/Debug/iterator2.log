@@ -1,0 +1,3 @@
+﻿  iterator2.cpp
+C:\Users\nikit\source\repos\iterator2\iterator2.cpp(18,24): warning C4018: <: несоответствие типов со знаком и без знака
+  iterator2.vcxproj -> C:\Users\nikit\source\repos\iterator2\Debug\iterator2.exe
